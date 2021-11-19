@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "academind-maximillian-nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
