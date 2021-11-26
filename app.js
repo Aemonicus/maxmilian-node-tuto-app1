@@ -32,7 +32,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(
   session({
-    secret: 'wo tebie xihuan chi faguo bing zhongguo de tai nan chi le',
+    secret: 'my secret',
     resave: false,
     saveUninitialized: false,
     store: store

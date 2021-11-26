@@ -10,6 +10,8 @@
     "express-session": "^1.17.2",
     "mongodb": "^4.2.0",
     "mongoose": "^5.2.17",
+    "nodemailer": "^6.7.2",
+    "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemon": "^2.0.15"
   },
   "name": "academind-maximillian-nodejs",
