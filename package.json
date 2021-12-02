@@ -15,7 +15,8 @@
     "nodemailer": "^6.7.2",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemon": "^2.0.15",
-    "pdfkit": "^0.13.0"
+    "pdfkit": "^0.13.0",
+    "stripe": "^8.191.0"
   },
   "name": "academind-maximillian-nodejs",
   "version": "1.0.0",
